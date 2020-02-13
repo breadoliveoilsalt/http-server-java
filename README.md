@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/breadoliveoilsalt/http-server-java.svg?branch=master)](https://travis-ci.com/breadoliveoilsalt/http-server-java)
 
-# HTTP Server 
+# HTTP Server  
 
 Welcome!
 
